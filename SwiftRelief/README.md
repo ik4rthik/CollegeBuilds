@@ -132,8 +132,8 @@ SwiftRelief was designed and developed as a collaborative academic project by ou
 
 ### Team Members
 - Karthik S
-- Sahil Mohan
-- [Teammate Name]
-- [Teammate Name]
+- Sahil Mohan   
+- Gokul G Nair
+- Vishwesh Shenoy
 
 Contributions included frontend development, backend engineering, machine learning integration, testing, and documentation.
